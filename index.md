@@ -100,3 +100,63 @@ table {
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/zero_shot/5/cfmvc.wav" type="audio/mpeg"></audio> </th>
     </tr>
 </table>
+
+
+# Emotion Voice Style Transfer Evaluation
+
+<table>
+    <tr>
+        <th> Transcript</th>
+        <th>Source Speech</th>
+        <th> Target Speech</th>
+        <th> Your-TTS</th>
+        <th> Diff-HierVC</th>
+      	<th> SEF-VC</th>
+      	<th> PFlow-VC</th>
+    </tr>
+    <tr>
+        <th> no one would disturb their little house even if anyone came so far into the thick forest while they were gone</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion_vc/1/src.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion_vc/1/ref.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion_vc/1/yourtts.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion_vc/1/diff.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion_vc/1/sefvc.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion_vc/1/cfmvc.wav" type="audio/mpeg"></audio> </th>
+    </tr>	
+  	<tr>
+        <th> in the light of the moon i saw a knife red with blood and my hand too was also discoloured</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion_vc/2/src.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion_vc/2/ref.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion_vc/2/yourtts.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion_vc/2/diff.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion_vc/2/sefvc.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion_vc/2/cfmvc.wav" type="audio/mpeg"></audio> </th>
+    </tr>	
+  	<tr>
+        <th> but hawkeye who was too much occupied with his own thoughts to note the movement continued speaking more to himself than to his companion</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion_vc/3/src.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion_vc/3/ref.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion_vc/3/yourtts.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion_vc/3/diff.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion_vc/3/sefvc.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion_vc/3/cfmvc.wav" type="audio/mpeg"></audio> </th>
+    </tr>	
+  	<tr>
+        <th> the incident was not violent nor even dramatic no posse was summoned no further effort made and reeder fearing personal violence soon fled in disguise</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion_vc/4/src.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion_vc/4/ref.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion_vc/4/yourtts.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion_vc/4/diff.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion_vc/4/sefvc.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion_vc/4/cfmvc.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+  	<tr>
+        <th> plato had not the command of his materials which would have enabled him to produce a perfect work of art</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion_vc/5/src.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion_vc/5/ref.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion_vc/5/yourtts.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion_vc/5/diff.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion_vc/5/sefvc.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion_vc/5/cfmvc.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+</table>
